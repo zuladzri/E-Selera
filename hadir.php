@@ -213,6 +213,9 @@ if (isset($_POST["submit"])) {
                     <option value="Kimpalan DLPV">Kimpalan DLPV</option> 
                     <option value="Pengeluaran DPV">Pengeluaran DPV</option> 
                     <option value="Pengeluaran DLPV">Pengeluaran DLPV</option>
+                    <option value="Tvet-i">Tvet-i</option>
+                    <option value="Tvet-i Khas">Tvet-i Khas</option>
+                    
                     <!-- Add more options as needed -->
                 </select>
             </li>
